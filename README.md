@@ -1,2 +1,2 @@
 # ML-in-python
-My ML models and works
+My ML models.
